@@ -116,7 +116,7 @@ LDA와 BERTopic의 특성 차이를 고려하여 각 기법에 맞는 전처리 
 
 ```
 soccer-injury-topic-modeling/
-│
+├── code/
 ├── lda_analysis.py          # LDA 분석 및 pyLDAvis 시각화 생성
 ├── bertopic_analysis.py     # BERTopic 분석, 시각화, CSV 결과 저장
 │
