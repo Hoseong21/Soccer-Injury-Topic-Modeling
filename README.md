@@ -119,6 +119,7 @@ soccer-injury-topic-modeling/
 ├── lda_analysis.py          # LDA 분석 및 pyLDAvis 시각화 생성
 ├── bertopic_analysis.py     # BERTopic 분석, 시각화, CSV 결과 저장
 │
+├── report.pdf
 ├── requirements.txt
 └── README.md
 ```

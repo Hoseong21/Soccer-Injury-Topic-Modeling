@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+nltk
+spacy
+gensim
+pyLDAvis
+bertopic
+sentence-transformers
+scikit-learn
+umap-learn
+hdbscan
